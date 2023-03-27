@@ -1,4 +1,9 @@
+
+
 Componente de código Power Drag Drop
+
+
+
 O componente Power Drag Drop permite criar interfaces de usuário de arrastar e soltar dentro de aplicativos de tela e páginas personalizadas.
 
 Aqui está um exemplo de interface do usuário estilo Kanban criada usando o componente PowerDragDrop sobre o Microsoft Dataverse.
